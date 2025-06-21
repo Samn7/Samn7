@@ -1,8 +1,9 @@
-<h1 align="center">💫 About Me:<h3 align="center">
+<h1>💫 About Me:<h3>
 <h4>I am Saksham Anand, pursuing BCA(hons). I like programming random things and watching anime while doing it.</h4>
 <h5>>A passionate frontend developer from India</h5>
-<h1>💻Tech Stack:</h1>
 <br>
+<h1>💻Tech Stack:</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samn7&label=Profile%20views&color=0e75b6&style=flat" alt="samn7" /> </p>
 
