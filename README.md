@@ -1,5 +1,7 @@
-<h1 align="center">I'm Samn</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">💫 About Me:<h3 align="center">
+Hey There!
+<h1>I am Saksham Anand, pursuing BCA(hons). I like programming random things and watching anime while doing it.</h1>
+<h3>>A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samn7&label=Profile%20views&color=0e75b6&style=flat" alt="samn7" /> </p>
 
